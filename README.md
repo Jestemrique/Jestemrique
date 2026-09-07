@@ -1,30 +1,37 @@
-Llevo años construyendo cosas; lo nuevo es que he decidido contarlas.
+Almost all of it has lived on my own computer, unpublished — this is where it
+starts coming out.
 
-Una extensión del navegador para mi propio trabajo, un tema de WordPress escrito
-a mano, un sitio sin plantilla comprada. Ninguna me la ha encargado nadie, y esa
-es justo la parte buena.
+Most of it has been web development — some JavaScript and PHP, a couple of
+frameworks, a lot of CSS — and more recently the plumbing underneath: Linux,
+containers, DNS. Whatever each project needed.
 
-**[jestemrique.net](https://jestemrique.net)** es la que tengo viva: un sitio
-bilingüe en 11ty donde explico cómo se construyó cada pieza y qué se rompió por
-el camino.
+Right now I'm building **[jestemrique.net](https://jestemrique.net)**: a static
+site on 11ty, in two languages, rebuilt and deployed on every push. What I write
+there is how each piece was made and what broke doing it.
 
-Aquí abajo está lo que hago ahora. Después viene lo de antes —cursos, pruebas
-técnicas y una etapa de WordPress—, archivado y a la vista a propósito: es de
-donde vengo.
+Not all of it fits in a repository — moving a domain, setting up a server or
+writing an article leave little to commit. Lately I've been getting into the
+fundamentals of AI: how models work, RAG, agents. That will end up on the site
+too.
+
+There's always something half-built on my computer. Some of it will end up here.
 
 ---
 
-*I've been building things for years; what's new is that I've decided to write
-about them.*
+Casi todo ha vivido en mi propio ordenador, sin publicar; aquí es donde empieza
+a salir.
 
-*A browser extension for my own job, a hand-written WordPress theme, a site with
-no ready-made template. Nobody asked me for any of them, and that's the best
-part.*
+La mayoría ha sido desarrollo web —algo de JavaScript y PHP, un par de
+frameworks, mucho CSS— y últimamente la fontanería de debajo: Linux,
+contenedores, DNS. Lo que hiciera falta en cada proyecto.
 
-*[jestemrique.net](https://jestemrique.net) is the one that's alive: a bilingual
-site built with 11ty, where I explain how each piece was made and what broke
-along the way.*
+Ahora mismo estoy con **[jestemrique.net](https://jestemrique.net)**: un sitio
+estático en 11ty, en dos idiomas, que se reconstruye y se despliega en cada
+push. Lo que escribo ahí es cómo se hizo cada pieza y qué se rompió al hacerla.
 
-*Below is what I'm working on now, and after that what came before — courses,
-tech challenges and a WordPress phase, archived and left visible on purpose:
-that's where I come from.*
+No todo cabe en un repositorio: mudar un dominio, montar un servidor o escribir
+un artículo dejan poco que commitear. Últimamente ando metido en los fundamentos
+de la IA: cómo funcionan los modelos, RAG, agentes. Eso también acabará en el
+sitio.
+
+Siempre hay algo a medio hacer en mi ordenador. Parte acabará aquí.
